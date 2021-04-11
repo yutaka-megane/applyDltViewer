@@ -21,7 +21,9 @@ UBUNTU_CODENAME=bionic
 
 ## 手順
 下記を実行
+
 ※参考：[Markdown記法（VSCode） チートシート](https://qiita.com/takeoverjp/items/d7a9ad4e5f0b778308be)
+
 ※参考：[DLT Viewer - Installation](https://github.com/GENIVI/dlt-viewer/blob/master/INSTALL.md)
 
 ```
